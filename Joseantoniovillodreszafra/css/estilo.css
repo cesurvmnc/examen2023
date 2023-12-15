@@ -1,14 +1,14 @@
 #principal{
     width: 800px;
     margin: auto;
-    background-color: #cccccc;
+    background-color: #f8e6e6;
 }
 h1{
-    color: red;
+    color: rgb(33, 202, 123);
     text-align: center;
 }
 h2{
-    color: blue;
+    color: rgb(206, 23, 197);
     text-align: center;
 }
 div img{
