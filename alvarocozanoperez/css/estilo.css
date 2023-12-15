@@ -1,0 +1,19 @@
+#principal{
+    width: 100%;
+    margin: auto;
+    background-color: cyan;
+}
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+h2{
+    color: black;
+    text-align: center;
+}
+div img{
+    display: flex;
+    margin: 0 auto;
+}
