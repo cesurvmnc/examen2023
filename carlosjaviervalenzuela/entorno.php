@@ -17,7 +17,7 @@
         <br>
 
         <?php
-            echo "<h2>Examen Entorno de Desarrollo. Suerte!</h2>";
+            echo "<h2>Examen Entorno de Desarrollo. Suerte!!</h2>";
         ?>
     </div>
 </body>
