@@ -10,7 +10,7 @@
 </head>
 <body>
     <div id="principal">
-        <h1>VICTOR MANUEL NAVARRO CAMINO</h1>
+        <h1>FRANCISCO SALAPIC FERNANDEZ</h1>
         <div>
             <img src="img/nieve.jpg" alt="Foto de la nieve">
         </div>
