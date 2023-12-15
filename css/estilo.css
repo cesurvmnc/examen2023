@@ -1,17 +1,22 @@
-#principal{
+#principal {
     width: 800px;
     margin: auto;
     background-color: #cccccc;
 }
-h1{
+
+h1 {
     color: red;
     text-align: center;
+    border-radius: 30%;
 }
-h2{
+
+h2 {
     color: blue;
     text-align: center;
 }
-div img{
+
+div img {
     display: flex;
     margin: 0 auto;
+    padding: 50%;
 }
