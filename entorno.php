@@ -6,19 +6,18 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Examen ED</title>
     <link rel="stylesheet" href="css/estilo.css">
-    
+
 </head>
 <body>
-    <div id="principal">
-        <h1>VICTOR MANUEL NAVARRO CAMINO</h1>
-        <div>
-            <img src="img/nieve.jpg" alt="Foto de la nieve">
-        </div>
-        <br>
-
-        <?php
-            echo "<h2>Examen Entorno de Desarrollo. Suerte!</h2>";
-        ?>
+<div id="principal">
+    <h1>Adrian Rodriguez Reyes</h1>
+    <div>
+        <img src="img/nieve.jpg" alt="Foto de la nieve">
     </div>
+    <br>
+    <?php
+    echo "<h2>Examen Entorno de Desarrollo. Suerte!</h2>";
+    ?>
+</div>
 </body>
 </html>
