@@ -1,0 +1,17 @@
+#principal{
+    width: 800px;
+    margin: auto;
+    background-color: #cccccc;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+h2{
+    color: blue;
+    text-align: center;
+}
+div img{
+    display: flex;
+    margin: 0 auto;
+}
