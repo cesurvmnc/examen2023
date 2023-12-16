@@ -1,0 +1,8 @@
+div.principal{
+    font-size: large;
+}
+body{
+    display:flex;
+    align-items: center;
+    justify-content: flex-end;
+}
